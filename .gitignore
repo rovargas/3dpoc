@@ -8,3 +8,6 @@ UnityProject/PoC/Library/expandedItems
 AssetVersioning.db
 UnityProject/PoC/Temp
 CrashedAssetImports.txt
+Assembly-CSharp.csproj
+UnityProject/PoC/PoC.sln
+UnityProject/PoC/PoC.userprefs
